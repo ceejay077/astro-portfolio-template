@@ -12,11 +12,11 @@ type Presentation = {
 };
 
 const presentation: Presentation = {
-  mail: "maxencewolff.pro@gmail.com",
-  title: "Hi, I’m Maxence 👋",
+  mail: "naveenchamara@gmail.com",
+  title: "Hi, I’m Naveen 👋",
   // profile: "/profile.webp",
   description:
-    "Bonjour, i'm a *french frontend developer* with over *3 years* of web experience. I am currently working with *NextJS and Typescript*. Outside of work I complete my pokemon card collection and learning TypeScript.",
+    "Keywords are my wand, websites my canvas. I paint them up in the Sri Lankan sunshine, weaving digital spells that lure customers and climb search engine mountains. Forget boring techie stuff, I'm Naveen, the SEO storyteller, crafting narratives that resonate and build more than just traffic, I build fans. So, lost in the online wilderness? Hop on my keyword surfboard, let's ride this SEO wave together.",
   socials: [
     {
       label: "X",
